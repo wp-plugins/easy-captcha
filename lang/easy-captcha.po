@@ -1,0 +1,224 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: easy-captcha\n"
+"POT-Creation-Date: 2013-05-31 13:00-0500\n"
+"PO-Revision-Date: 2013-05-31 13:00-0500\n"
+"Last-Translator: \n"
+"Language-Team: wppal <support@wppal.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\wwwroot\\wordpress-3.3\\wp-content\\plugins\\easy-"
+"captcha\n"
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-hidden.php:6
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-hidden.php:7
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-hidden.php:186
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-hidden.php:198
+msgid "Min completion time"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-hidden.php:10
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-hidden.php:11
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-hidden.php:193
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-hidden.php:198
+msgid "Max completion time"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-hidden.php:14
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-hidden.php:15
+msgid "Check JavaScript"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-hidden.php:24
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-hidden.php:25
+msgid "Check Cookies"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-hidden.php:53
+msgid "Please enable JavaScript to make a form submission"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-hidden.php:72
+msgid "Please enable cookies to make a form submission"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-hidden.php:161
+msgid "Please try to fill in and submit the form again"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-hidden.php:185
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-hidden.php:192
+#, php-format
+msgid ""
+"Error on tab <strong>%s</strong>. \"%s\" is incorrect integer value for "
+"<strong>%s</strong>"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-hidden.php:197
+#, php-format
+msgid "Error on tab <strong>%s</strong>. %s < %s"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-recaptcha.php:5
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-recaptcha.php:6
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-simple.php:5
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-simple.php:6
+msgid "Label"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-recaptcha.php:9
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-recaptcha.php:10
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-recaptcha.php:149
+msgid "reCaptcha Public key"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-recaptcha.php:13
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-recaptcha.php:14
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-recaptcha.php:153
+msgid "reCaptcha Private key"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-recaptcha.php:18
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-recaptcha.php:19
+msgid "Theme"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-recaptcha.php:22
+msgid "Red"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-recaptcha.php:23
+msgid "White"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-recaptcha.php:24
+msgid "Blackglass"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-recaptcha.php:25
+msgid "Clean"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-recaptcha.php:28
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-recaptcha.php:29
+msgid "Language"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-recaptcha.php:33
+msgid "English"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-recaptcha.php:34
+msgid "Dutch"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-recaptcha.php:35
+msgid "French"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-recaptcha.php:36
+msgid "German"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-recaptcha.php:37
+msgid "Portuguese"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-recaptcha.php:38
+msgid "Russian"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-recaptcha.php:39
+msgid "Spanish"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-recaptcha.php:40
+msgid "Turkish"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-recaptcha.php:43
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-simple.php:9
+msgid "Hide captcha for <br/> logged in users"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-recaptcha.php:44
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-simple.php:10
+msgid "Hide captcha for logged in users"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-recaptcha.php:46
+msgid ""
+"Please visit <a target=_blank href=\"http://www.google.com/recaptcha/"
+"\">Google reCaptcha site</a> to get API keys"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-recaptcha.php:146
+#, php-format
+msgid "Error on tab <strong>%s</strong>. <strong>%s</strong> is empty"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha-simple.php:115
+msgid "Please enter a correct CAPTCHA value"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha.php:26
+msgid "Settings"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha.php:114
+msgid "Easy Captcha Settings"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha.php:115
+msgid "Select a page to install a captcha on"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha.php:178
+msgid "Select type of captcha:"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha.php:222
+msgid "Save Settings"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha.php:233
+msgid "Hidden"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha.php:234
+msgid "Simple"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha.php:235
+msgid "reCaptcha"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha.php:241
+msgid "Login page"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha.php:242
+msgid "Registration page"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha.php:243
+msgid "Comments form"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy-captcha.php:244
+msgid "Password reset page"
+msgstr ""
+
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy_captcha_comments_form.php:26
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy_captcha_login_page.php:21
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy_captcha_password_reset_page.php:31
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy_captcha_registration_page.php:27
+#: C:\wwwroot\wordpress-3.3\wp-content\plugins\easy-captcha/easy_captcha_registration_page.php:45
+msgid "Please try to submit the form again"
+msgstr ""

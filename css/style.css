@@ -1,0 +1,60 @@
+a.easy_captcha-page-a {padding:10px;display:block;text-decoration:none;outline:1px;}
+
+#easy_captcha-wrap{position:relative;margin:20px 5px}
+
+#easy_captcha-disable{
+	
+	position: absolute;top:0;left:0;right:0;bottom:0;
+	background: url(../images/wait.gif) center center no-repeat #e8e8e8;z-index: 500;display: none;
+	-moz-opacity: .40;opacity: .40;filter: alpha(opacity=40);
+}
+
+#page-list-ul li {
+	border:1px solid #e8e8e8;
+	border-right:0;
+	border-radius:5px 0 0 5px;
+} 
+
+#page-list-ul li input[type="checkbox"] {margin-right:5px;}
+
+#page-options-div li label input[type="radio"] {margin-right:3px;}
+#page-options-div li label {margin:10px;}
+
+
+#page-list-ul, #page-options-div {float:left;}
+#page-list-ul {margin:30px -1px 0 0;}
+#page-list-ul li, #page-options-div li {list-style:none;}
+#page-options-div li {float:left;} 
+#page-options-div ul {clear:both;}
+
+.easy_captcha-page-captcha-options, .easy_captcha-page-options{display:none}
+.easy_captcha-page-options{height:320px;margin-bottom:10px;padding:20px 30px;border-radius:16px;}
+
+.easy_captcha-disabled{background:#e8e8e8 !important;}
+
+.easy_captcha-disabled a,
+.easy_captcha-disabled h2
+{color:#999 !important;}
+
+div.easy_captcha-disabled div, 
+div.easy_captcha-disabled p 
+{visibility:hidden;}
+
+.easy_captcha-active{background:#f5f5ff}
+
+div.easy_captcha-active{display:block}
+div.easy_captcha-active-captcha{display:block}
+
+div.clear-both{height:1px;clear:both;}
+
+div#easy_captcha-errors{
+	background:#fbb;
+	border:1px solid #500;
+	border-radius:5px;
+	width1:300px;
+	margin:10px 0;
+	padding:0 7px;
+	font-size:0.9em;
+	display:none;
+	float1:left;
+}
